@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-s0@cksup^jw2ha*j)m*&57gn!%p#1kf1k(mgyewm#6vm&c1(#p
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['miniminimarket.herokuapp.com','127.0.0.1']
+ALLOWED_HOSTS = ['miniminimarket.herokuapp.com/']
 
 
 # Application definition
